@@ -1,0 +1,37 @@
+{
+  "name": "developer-extension-pack",
+  "displayName": "SgtCoder Developer Extension Pack",
+  "description": "All the great developer extensions needed.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "alefragnani.project-manager",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "amirmarmul.laravel-blade-vscode",
+    "bmewburn.vscode-intelephense-client",
+    "castello-dev.bash-snippets",
+    "DoCode.vscode-remove-final-newlines",
+    "esbenp.prettier-vscode",
+    "foxundermoon.shell-format",
+    "hangxingliu.vscode-systemd-support",
+    "hogashi.crontab-syntax-highlight",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "Natizyskunk.sftp",
+    "onecentlin.laravel-blade",
+    "onecentlin.laravel5-snippets",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "shufo.vscode-blade-formatter",
+    "travis71i.clean-css-vscode",
+    "vincaslt.highlight-matching-tag",
+    "yzane.markdown-pdf"
+  ],
+  "publisher": "sgtcoder",
+  "repository": "sgtcoder/vscode-developer-extension-pack"
+}
