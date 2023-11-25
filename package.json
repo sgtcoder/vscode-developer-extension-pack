@@ -2,7 +2,7 @@
   "name": "developer-extension-pack",
   "displayName": "SgtCoder Developer Extension Pack",
   "description": "All the great developer extensions needed.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -24,6 +24,7 @@
     "hogashi.crontab-syntax-highlight",
     "mikestead.dotenv",
     "ms-azuretools.vscode-docker",
+    "ms-python.black-formatter",
     "ms-python.python",
     "Natizyskunk.sftp",
     "onecentlin.laravel-blade",
