@@ -2,7 +2,7 @@
   "name": "developer-extension-pack",
   "displayName": "SgtCoder Developer Extension Pack",
   "description": "All the great developer extensions needed.",
-  "version": "1.0.1",
+  "version": "release-1.0.2",
   "engines": {
     "vscode": "^1.80.0"
   },
