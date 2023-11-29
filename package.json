@@ -14,6 +14,7 @@
     "amiralizadeh9480.laravel-extra-intellisense",
     "amirmarmul.laravel-blade-vscode",
     "bmewburn.vscode-intelephense-client",
+    "bradlc.vscode-tailwindcss",
     "castello-dev.bash-snippets",
     "DoCode.vscode-remove-final-newlines",
     "esbenp.prettier-vscode",
@@ -34,6 +35,7 @@
     "shufo.vscode-blade-formatter",
     "travis71i.clean-css-vscode",
     "vincaslt.highlight-matching-tag",
+    "Vue.volar",
     "yzane.markdown-pdf"
   ],
   "publisher": "sgtcoder",
