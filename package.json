@@ -2,7 +2,7 @@
   "name": "developer-extension-pack",
   "displayName": "SgtCoder Developer Extension Pack",
   "description": "All the great developer extensions needed.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -23,7 +23,6 @@
     "hangxingliu.vscode-systemd-support",
     "henrynguyen5-vsc.vsc-nvm",
     "hogashi.crontab-syntax-highlight",
-    "JonaDuran.my-light-theme",
     "mikestead.dotenv",
     "ms-azuretools.vscode-docker",
     "ms-python.black-formatter",
@@ -33,6 +32,7 @@
     "onecentlin.laravel5-snippets",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
+    "sgtcoder.vscode-developer-coding-theme",
     "shufo.vscode-blade-formatter",
     "tomoki1207.pdf",
     "travis71i.clean-css-vscode",
