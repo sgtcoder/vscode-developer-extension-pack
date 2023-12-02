@@ -2,7 +2,7 @@
   "name": "developer-extension-pack",
   "displayName": "SgtCoder Developer Extension Pack",
   "description": "All the great developer extensions needed.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -32,7 +32,7 @@
     "onecentlin.laravel5-snippets",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
-    "sgtcoder.vscode-developer-coding-theme",
+    "sgtcoder.developer-coding-theme",
     "shufo.vscode-blade-formatter",
     "tomoki1207.pdf",
     "travis71i.clean-css-vscode",
