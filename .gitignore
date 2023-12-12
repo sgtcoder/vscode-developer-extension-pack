@@ -1,3 +1,4 @@
 *.code-workspace
 *.sh
 *.vsix
+/.vscode/sessions.json
