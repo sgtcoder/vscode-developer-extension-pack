@@ -2,7 +2,7 @@
   "name": "developer-extension-pack",
   "displayName": "SgtCoder Developer Extension Pack",
   "description": "All the great developer extensions needed.",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -17,7 +17,6 @@
     "bradgashler.htmltagwrap",
     "bradlc.vscode-tailwindcss",
     "castello-dev.bash-snippets",
-    "DoCode.vscode-remove-final-newlines",
     "esbenp.prettier-vscode",
     "foxundermoon.shell-format",
     "GraphQL.vscode-graphql-syntax",
@@ -37,7 +36,6 @@
     "sgtcoder.developer-coding-theme",
     "shufo.vscode-blade-formatter",
     "tomoki1207.pdf",
-    "travis71i.clean-css-vscode",
     "vincaslt.highlight-matching-tag",
     "Vue.volar",
     "yzane.markdown-pdf"
