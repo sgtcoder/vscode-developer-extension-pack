@@ -2,7 +2,7 @@
   "name": "developer-extension-pack",
   "displayName": "SgtCoder Developer Extension Pack",
   "description": "All the great developer extensions needed.",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -20,6 +20,7 @@
     "esbenp.prettier-vscode",
     "foxundermoon.shell-format",
     "GraphQL.vscode-graphql-syntax",
+    "Gruntfuggly.todo-tree",
     "hangxingliu.vscode-systemd-support",
     "henrynguyen5-vsc.vsc-nvm",
     "hogashi.crontab-syntax-highlight",
@@ -35,6 +36,7 @@
     "redhat.vscode-yaml",
     "sgtcoder.developer-coding-theme",
     "shufo.vscode-blade-formatter",
+    "tarik02.php-imports",
     "tomoki1207.pdf",
     "travis71i.clean-css-vscode",
     "vincaslt.highlight-matching-tag",
