@@ -2,7 +2,7 @@
   "name": "developer-extension-pack",
   "displayName": "SgtCoder Developer Extension Pack",
   "description": "All the great developer extensions needed.",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -34,14 +34,17 @@
     "onecentlin.laravel5-snippets",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
+    "rexshi.phpdoc-comment-vscode-plugin",
     "sgtcoder.developer-coding-theme",
+    "sgtcoder.vscode-format-save-all",
     "shufo.vscode-blade-formatter",
     "tarik02.php-imports",
     "tomoki1207.pdf",
     "travis71i.clean-css-vscode",
     "vincaslt.highlight-matching-tag",
     "Vue.volar",
-    "yzane.markdown-pdf"
+    "yzane.markdown-pdf",
+    "yzhang.markdown-all-in-one"
   ],
   "publisher": "sgtcoder",
   "repository": "sgtcoder/vscode-developer-extension-pack"

@@ -1,4 +1,4 @@
-# sgtcoder-developer-extension-pack README
+# sgtcoder.developer-extension-pack README
 
 ## Working with Markdown
 
