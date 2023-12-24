@@ -1,4 +1,6 @@
 *.code-workspace
 *.sh
 *.vsix
+.vscode-test
 /.vscode/sessions.json
+node_modules
