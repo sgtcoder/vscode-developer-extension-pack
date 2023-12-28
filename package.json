@@ -3,7 +3,7 @@
     "displayName": "SgtCoder Developer Extension Pack",
     "description": "All the great developer extensions needed.",
     "icon": "images/logo.png",
-    "version": "1.0.12",
+    "version": "1.13.0",
     "engines": {
         "vscode": "^1.80.0"
     },
@@ -44,6 +44,7 @@
         "tarik02.php-imports",
         "tomoki1207.pdf",
         "travis71i.clean-css-vscode",
+        "usernamehw.remove-empty-lines",
         "vincaslt.highlight-matching-tag",
         "Vue.volar",
         "yzane.markdown-pdf",
