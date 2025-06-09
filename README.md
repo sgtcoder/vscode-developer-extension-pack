@@ -1,7 +1,7 @@
 # VSCode Developer Extension Pack Readme #
 
 > - **Extension ID:** sgtcoder.developer-extension-pack
-> - **Last Revised:** 2023-12-26
+> - **Last Revised:** 2025-06-09
 
 ____
 
